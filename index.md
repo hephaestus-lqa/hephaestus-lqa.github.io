@@ -1,4 +1,4 @@
 ## Welcome to Hephaestus LQA Testing
 
 This site is created for testing external links.
-See more details in [About page](https://https://hephaestus-lqa.github.io/about.html)
+See more details in [About Us](https://https://hephaestus-lqa.github.io/about)
