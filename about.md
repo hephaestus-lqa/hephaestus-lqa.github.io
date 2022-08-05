@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Hephaestus LQA
-permalink: https://hephaestus-lqa.github.io/about
+permalink: /about/
 ---
 
 ## About Us
