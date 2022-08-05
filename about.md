@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "About Hephaestus LQA"
 permalink: /about
 ---
