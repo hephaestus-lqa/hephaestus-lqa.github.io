@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Hephaestus LQA
+title: "About Hephaestus LQA"
 permalink: /about/
 ---
 
